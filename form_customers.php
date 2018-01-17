@@ -27,6 +27,7 @@
                     <td><?=$row["phonenumber"]?></td>
                     <td><?=$row["mail"]?></td>
                     <td><?=$row["address"]?></td>
+ <td><?=$row["address"]?></td>
                 </tr>
 <!DOCTYPE html>
 <html lang="en">
